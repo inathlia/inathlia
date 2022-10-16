@@ -1,4 +1,4 @@
-  <img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFPOst1M6I/5LIRgO2WYID2YSIu79RzEQ/view?utm_content=DAFPOst1M6I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  <img align="right" width="400" src="https://www.canva.com/design/DAFPOst1M6I/TiKmQk20iieCbUUzWRUvKg">
 
 <!--
 **inathlia/inathlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
