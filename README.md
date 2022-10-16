@@ -27,8 +27,8 @@ Here are some ideas to get you started:
  -->
  
  <p display="inline" justify-content="space-around">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=inathlia&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=inathlia&theme=tokyonight&layout=compact">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=inathlia&show_icons=true&theme=tokyonight&line_height=27&card_width=100px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=inathlia&theme=tokyonight&layout=compact&card_width=100px">
 </p>
 
 <p align = "center">
