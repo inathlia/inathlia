@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
- <img align="center" scr="http://github-readme-streak-stats.herokuapp.com?user=inathlia&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+ <img align="center" scr="https://github-readme-streak-stats.herokuapp.com/?user=inathlia&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inathlia&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 </p>
