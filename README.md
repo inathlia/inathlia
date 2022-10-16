@@ -20,4 +20,4 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inathlia&layout=compact&theme=tokyonight" />
 <!-- </div> -->
 
-http://github-readme-streak-stats.herokuapp.com?user=inathlia&theme=tokyonight&date_format=j%20M%5B%20Y%5D
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inathlia&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
