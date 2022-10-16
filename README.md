@@ -15,16 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=inathlia&theme=tokyonight&show_icons=true" alt="Nath's github stats" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inathlia&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
- <img align="center" scr="https://github-readme-streak-stats.herokuapp.com/?user=inathlia&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inathlia&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</p>
- -->
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
  
 <p align = "center" display="inline">
   <img  src = "https://github-readme-stats.vercel.app/api?username=inathlia&show_icons=true&theme=tokyonight&line_height=27&card_width=170px">
