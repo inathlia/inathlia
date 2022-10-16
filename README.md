@@ -1,6 +1,5 @@
 <!-- <img src='https://github.com/inathlia/inathlia/blob/main/img/nathBanner.png' alt="banner"></img> -->
 
-<div>
   ```javascript
   const thai = {
     pronouns: "she" | "her",
@@ -10,7 +9,6 @@
     hobbies: [read, kart_race, sing],
  }
   ```
-</div>
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
