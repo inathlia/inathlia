@@ -30,7 +30,7 @@
 
 <hr>
 <h2>
-  Contact<img src="https://media.giphy.com/media/557ImWHbANqTCcVYPt/giphy.gif" width="20">
+  Contact <img src="https://media.giphy.com/media/557ImWHbANqTCcVYPt/giphy.gif" width="25">
 </h2>
   <div align="center">
   <svg>
