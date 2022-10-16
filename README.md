@@ -29,9 +29,11 @@
 </div>
 
 <hr>
-<svg>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" color="white"/>
-</svg>
+  <div align="center">
+  <svg>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" fill="white"/>
+  </svg>
+</div>
   
 <hr>
 <div align = "center">
