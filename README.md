@@ -15,7 +15,7 @@
   ```
 
 <h2>
-  My Github Stats<img src="https://media.giphy.com/media/MFmpuJsoh6tUPwhCPE/giphy.gif" width="50">
+  My Github Stats<img src="https://media.giphy.com/media/MFmpuJsoh6tUPwhCPE/giphy.gif" width="25">
 </h2>
  
 <div align = "center" display="inline">
@@ -33,8 +33,8 @@
   Contact <img src="https://media.giphy.com/media/557ImWHbANqTCcVYPt/giphy.gif" width="25">
 </h2>
   <div align="center">
-  <svg>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" fill="white"/>
+  <svg color="#0A66C2">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg"/>
   </svg>
 </div>
   
