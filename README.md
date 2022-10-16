@@ -29,8 +29,10 @@
 </div>
 
 <hr>
+<svg>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" color="white"/>
-
+</svg>
+  
 <hr>
 <div align = "center">
   <img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="README Jokes">
