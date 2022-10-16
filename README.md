@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 </p>
  -->
  
-<p align = "center">
+<p align = "center" display="inline">
   <img  src = "https://github-readme-stats.vercel.app/api?username=inathlia&show_icons=true&theme=tokyonight&line_height=27&card_width=170px">
-  <span visibility="hidden">aa</span>
+  <p>  </p>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=inathlia&theme=tokyonight&layout=compact&card_width=150px">
 </p>
 
