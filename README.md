@@ -15,12 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=inathlia&theme=tokyonight&show_icons=true" alt="Nath's github stats" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inathlia&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
  <img align="center" scr="https://github-readme-streak-stats.herokuapp.com/?user=inathlia&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inathlia&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inathlia&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</p>
+ -->
+ 
+ <p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=inathlia&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=inathlia&theme=tokyonight">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=inathlia&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p>
