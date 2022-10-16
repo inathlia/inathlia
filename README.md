@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=inathlia&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p>
+
+
+<img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="README Jokes">
