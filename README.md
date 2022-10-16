@@ -1,5 +1,6 @@
 <!-- <img src='https://github.com/inathlia/inathlia/blob/main/img/nathBanner.png' alt="banner"></img> -->
 <h2> Hi, I'm Nath Tenaglia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
 
