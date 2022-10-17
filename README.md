@@ -8,8 +8,8 @@
   const thai = {
     pronouns: "she" | "her",
     study: "I'm currently graduating in Computer Science at PUC Minas",
-    code: [Javascript, HTML, CSS, Java, C/C++],
-    tools: [VsCode, GitHub, PostgreSQL],
+    code: [JavaScript, HTML, CSS, Java, C/C++],
+    tools: [VScode, GitHub, PostgreSQL],
     hobbies: [read, kart_race, sing],
  }
   ```
