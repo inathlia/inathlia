@@ -28,7 +28,7 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=inathlia&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </div>
 
-<hr>
+<br>
 <h2>
   Contact <img src="https://media.giphy.com/media/557ImWHbANqTCcVYPt/giphy.gif" width="25">
 </h2>
