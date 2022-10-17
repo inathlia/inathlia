@@ -33,11 +33,11 @@
   Contact <img src="https://media.giphy.com/media/557ImWHbANqTCcVYPt/giphy.gif" width="25">
 </h2>
   <div align="center">
-  <a href="https://linkedin.com/in/nathalia-tenaglia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathalia-tenaglia" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nath%C3%A1lia-tenaglia-26ba9a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathalia-tenaglia" height="30" width="40" /></a>
 <a href="https://instagram.com/inathlia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inathlia" height="30" width="40" /></a>
 </div> 
   
 <hr>
 <div align = "center">
-  <img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="README Jokes">
+  <img align="center" src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="README Jokes">
 </div>
