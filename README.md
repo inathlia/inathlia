@@ -15,7 +15,7 @@
   ```
 
 <h2>
-  My Github Stats<img src="https://media.giphy.com/media/MFmpuJsoh6tUPwhCPE/giphy.gif" width="25">
+  My Github Stats <img src="https://media.giphy.com/media/MFmpuJsoh6tUPwhCPE/giphy.gif" width="25">
 </h2>
  
 <div align = "center" display="inline">
