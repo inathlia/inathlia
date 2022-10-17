@@ -7,7 +7,7 @@
   ```javascript
   const nath = {
     pronouns: "she" | "her",
-    study: "I'm currently graduating in Computer Science at PUC Minas",
+    study: "Currently graduating in Computer Science at PUC Minas",
     code: [JavaScript, HTML, CSS, Java, C/C++],
     tools: [VScode, GitHub, PostgreSQL],
     hobbies: [read, kart_race, sing],
