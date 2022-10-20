@@ -34,7 +34,7 @@
 </h2>
   <div align="center">
   <a href="https://www.linkedin.com/in/nath%C3%A1lia-tenaglia-26ba9a21b/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="nathalia-tenaglia" height="30" /></a>
-<a href="https://instagram.com/inathlia" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="inathlia" height="30" " /></a>
+  <a href="https://instagram.com/inathlia" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="inathlia" height="30" /></a>
 </div> 
   
 <hr>
