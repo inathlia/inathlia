@@ -18,15 +18,14 @@
   My Github Stats <img src="https://media.giphy.com/media/MFmpuJsoh6tUPwhCPE/giphy.gif" width="25">
 </h2>
  
-<div align = "center" display="inline">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=inathlia&show_icons=true&theme=nightowl&line_height=27&card_width=170px">
-        
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=inathlia&theme=nightowl&layout=compact&card_width=150px">
+<div align = "center">
+  
+
+  | <img width="300" src="https://streak-stats.demolab.com?user=inathlia&theme=nightowl&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/> | <img width="415" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inathlia&theme=nightowl"/> |
+   | :-: | :-: |
 </div>
 
-<div align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=inathlia&show_icons=true&locale=en&layout=compact&theme=nightowl&line_height=0" />
-</div>
+
 
 <br>
 <h2>
