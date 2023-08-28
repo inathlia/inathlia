@@ -38,5 +38,5 @@
   
 <hr>
 <div align = "center">
-  <img width="200" align="center" src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="README Jokes">
+  <img width="300" align="center" src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="README Jokes">
 </div>
