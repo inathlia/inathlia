@@ -30,7 +30,7 @@
 
 <br>
 <h2>
-  Contact <img src="https://media.giphy.com/media/557ImWHbANqTCcVYPt/giphy.gif" width="25">
+  Contact <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RvMHBudmptOWVpNG9mamF3NGd0d2tscGVyNXg2aTB0aGNtOXFiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cn97EhwvCPlrIWo2Sj/giphy.gif" width="25">
 </h2>
   <div align="center">
   <a href="https://www.linkedin.com/in/nath%C3%A1lia-tenaglia-26ba9a21b/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="nathalia-tenaglia" height="30" /></a>
