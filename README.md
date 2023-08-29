@@ -16,7 +16,7 @@
   ```
 
 <h2>
-  My Github Stats <img src="https://media.giphy.com/media/MFmpuJsoh6tUPwhCPE/giphy.gif" width="25">
+  My Github Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ1YnRnaWV5N3cxYnNzeTd0eG5icXoxZ216amVrbmxjcDl3eWJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dVsI4WhNuZVwNBENra/giphy.gif" width="25">
 </h2>
  
 <div align = "center">
