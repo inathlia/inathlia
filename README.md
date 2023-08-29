@@ -1,5 +1,5 @@
 <!-- <img src='https://github.com/inathlia/inathlia/blob/main/img/nathBanner.png' alt="banner"></img> -->
-<h2> Hi, I'm Nath Tenaglia! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWozd3R2Y2Rxc28ydmUwY2JiYm9oN2NrNGFkaWJzY3IwNGJ1NzFiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/20KOWrJlAGHb9bDhXf/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Nath Tenaglia! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWozd3R2Y2Rxc28ydmUwY2JiYm9oN2NrNGFkaWJzY3IwNGJ1NzFiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/20KOWrJlAGHb9bDhXf/giphy.gif" width="25"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/jriaVtZjl39v7PWZQ8/giphy.gif" width="230"> -->
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRscmV5b2pnMHFvc294NWdwMnFkYTc5bnBoYndkZm9kdGt2NTZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif" width="230">
 
