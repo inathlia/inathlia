@@ -9,8 +9,8 @@
   const nath = {
     pronouns: "she" | "her",
     study: "Currently graduating in Computer Science at PUC Minas",
-    code: [JavaScript, TypeScipt, Java],
-    tools: [VScode, GitHub, PostgreSQL],
+    code: [PHP, TypeScipt, SQL],
+    tools: [VScode, Git, Vim],
  }
   ```
 
