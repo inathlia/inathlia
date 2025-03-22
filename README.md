@@ -14,19 +14,6 @@
  }
   ```
 
-<h2>
-  My Github Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ1YnRnaWV5N3cxYnNzeTd0eG5icXoxZ216amVrbmxjcDl3eWJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dVsI4WhNuZVwNBENra/giphy.gif" width="25">
-</h2>
- 
-<div align = "center">
-  
-
-  | <img width="300" src="https://streak-stats.demolab.com?user=inathlia&theme=nightowl&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/> | <img width="415" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inathlia&theme=nightowl"/> |
-   | :-: | :-: |
-</div>
-
-
-
 <br>
 <h2>
   Contact <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RvMHBudmptOWVpNG9mamF3NGd0d2tscGVyNXg2aTB0aGNtOXFiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cn97EhwvCPlrIWo2Sj/giphy.gif" width="25">
