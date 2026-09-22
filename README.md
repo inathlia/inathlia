@@ -8,9 +8,8 @@
   ```javascript
   const nath = {
     pronouns: "she" | "her",
-    study: "Currently graduating in Computer Science at PUC Minas",
-    code: [PHP, TypeScipt, SQL],
-    tools: [VScode, Git, Vim],
+    study: "B.Sc. Computer Science",
+    code: [PHP, TypeScipt, SQL, Go, C++]
  }
   ```
 
