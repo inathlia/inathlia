@@ -9,7 +9,7 @@
   const nath = {
     pronouns: "she" | "her",
     study: "B.Sc. Computer Science",
-    code: [PHP, TypeScipt, SQL, Go, C++]
+    code: ["PHP", "TypeScipt", "SQL", "Go", "C++"]
  }
   ```
 
